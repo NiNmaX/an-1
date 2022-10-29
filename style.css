@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(80, 214, 231);
+  height: 100vh;
+  font-family: cursive;
+}
+
+.container {
+  width: 600px;
+  background-color: white;
+  height: 250px;
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 6px;
+}
+
+.title {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#text1,
+#text2 {
+  height: 60px;
+  width: 400px;
+}
